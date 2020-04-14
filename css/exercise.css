@@ -1,0 +1,25 @@
+.link_area{
+	height: 780px;
+	width: 100%;
+	background-color: #1b1f25;
+}
+.link_hook{
+	height: 100%;
+	width: 60%;
+	margin: 0 auto;
+}
+.link_left{
+	display: inline-block;
+	width: 40%;
+}
+.link_right{
+	display: inline-block;
+	width: 60%;
+}
+.link_list_item{
+	height: 33%;
+	background-color: #1B6D85;
+}
+.link_list_item:current{
+	background-color:#2AABD2;
+}
