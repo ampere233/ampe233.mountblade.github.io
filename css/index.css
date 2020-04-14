@@ -18,15 +18,15 @@ html,body{
 	.cenbox{
 		position: absolute;
 		top:46%;
-		left: 46%;
-		width: 150px;
+		left: 38%;
+		width: 270px;
 		height: 100px;
 	}
 	.cursorBox{
 		width: 3px;
 		height: 60px;
 		position: absolute;
-		left: 40%;
+		left: 50%;
 		overflow: hidden;
 	}
 	.cursor{
@@ -46,7 +46,8 @@ html,body{
 	}
 	.text{
 		color: #FFFFFF;
-		width: 150px;
+		width: 270px;
+		font-size: 30px;
 		position: absolute;
 		top: 65px;
 	}
